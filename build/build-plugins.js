@@ -62,7 +62,6 @@ const getConfigByPluginKey = pluginKey => {
     pluginKey === 'Data' ||
     pluginKey === 'Manipulator' ||
     pluginKey === 'EventHandler' ||
-    pluginKey === 'Polyfill' ||
     pluginKey === 'SelectorEngine' ||
     pluginKey === 'Util' ||
     pluginKey === 'Sanitizer'
